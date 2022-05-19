@@ -1,0 +1,92 @@
+{
+	"Apartment_large": {
+		"type": "building",
+		"id" : 1,
+		"name" : "large Apartment",
+		"description" : "The future is now in the Atari casino world, and you can be a part of this future too. We offer a large apartment in the heart of Atari casino world ideally situated at Locate_x: 70, Locate_y: 50. The apartment is ideally situated within a gated community surrounded by parks and garden for future acquisition. ",
+		"locate_x": 70,
+		"locate_y": 50,
+		"price": "10000000"
+	},
+	"Apartment_medium": {
+		"type": "building",
+		"id" : 2,
+		"name" : "medium Apartment",
+		"description" : "The future is now in the Atari casino world, get your share in the future now. We offer a medium apartment in the heart of Atari casino world ideally situated at Locate_x: 50, Locate_y: 50. The apartment is ideally situated within a gated community surrounded by parks and garden for future acquisition. ",
+		"locate_x": 50,
+		"locate_y": 50,
+		"price": "10000000"
+	},
+	"Apartment_small": {
+		"type": "building",
+		"id" : 3,
+		"name" : "small Apartment",
+		"description" : "The future is now in the Atari casino world, get your share in the future now. We offer a small apartment in the heart of Atari casino world ideally situated at Locate_x: 50, Locate_y: 70. The apartment is ideally situated within a gated community surrounded by parks and garden for future acquisition. ",
+		"locate_x": 70,
+		"locate_y": 50,
+		"price": "10000000"
+	},
+	"citybird_eye": {
+		"name" : "Atari casino map",
+		"type": "map",
+		"price": "10000000",
+		"description" : "Atari casino world also offers you purchase a citybird view of the Atari casino world Map, this map will allow you to explore regions of the casino world previously unknown to users. Colonizing mars is imminent, but what is more urgent is owning the digital casino world, and Atari allows you to do so"
+	},
+	"room1": {
+		"type": "apartment",
+		"locate": 1,
+		"name" : "Apartment",
+		"description" : "Book your place in  future now with this beautifully constructed apartment in Atari casino world. We offer a room in apartment in the heart of Atari casino world ideally situated at Locate: 1. The room allows you to connect, socialize and grow with other owners. ",
+		"price": "3000"
+	},
+	"room2": {
+		"type": "apartment",
+		"locate": 1,
+		"name" : "Apartment",
+		"description" : "Book your place in  future now with this beautifully constructed apartment in Atari casino world. We offer a room in apartment in the heart of Atari casino world ideally situated at Locate: 1. The room allows you to connect, socialize and grow with other owners. ",
+		"price": "6000"
+	},
+	"room3": {
+		"type": "apartment",
+		"locate": 2,
+		"name" : "Apartment",
+		"description" : "Book your place in  future now with this beautifully constructed apartment in Atari casino world. We offer a room in apartment in the heart of Atari casino world ideally situated at Locate: 2. The room allows you to connect, socialize and grow with other owners. ",
+		"price": "9000"
+	},
+	"room4": {
+		"type": "apartment",
+		"locate": 2,
+		"name" : "Apartment",
+		"description" : "Book your place in  future now with this beautifully constructed apartment in Atari casino world. We offer a room in apartment in the heart of Atari casino world ideally situated at Locate: 2. The room allows you to connect, socialize and grow with other owners. ",
+		"price": "15000"
+	},
+	"room5": {
+		"type": "apartment",
+		"locate": 3,
+		"name" : "Apartment",
+		"description" : "Book your place in  future now with this beautifully constructed apartment in Atari casino world. We offer a room in apartment in the heart of Atari casino world ideally situated at Locate: 3. The room allows you to connect, socialize and grow with other owners. ",
+		"price": "20000"
+	},
+	"room6": {
+		"type": "apartment",
+		"locate": 3,
+		"name" : "Apartment",
+		"description" : "Book your place in  future now with this beautifully constructed apartment in Atari casino world. We offer a room in apartment in the heart of Atari casino world ideally situated at Locate: 3. The room allows you to connect, socialize and grow with other owners. ",
+		"price": "30000"
+	},
+	"villa": {
+		"type": "villa",
+		"name" : "villa",
+		"description" : "Atari Casino’s are pleased to offer luxurious Villa at the heart of Atari casino world. We offer a uniquely built Villa ideally situated at Locate_x: 80, Locate_Y: 80. The villa allows you to oversee the surrounding community, further enabling you to acquire, build and flip, properties in the neighborhood. ",
+		"locate_x": 80,
+		"locate_y": 80,
+		"price": "500000"
+	},
+	"land": {
+		"type": "land",
+		"name" : "Atari Land",
+		"description" : "Atari casino world allows you to buy Land in the future, you can build, hold or sell the land. The piece of land is ideally located and surrounded by villas and luxury apartments constructed by Atari Casino, and you can either be part of this community in the long run, or sell it as per your need.",
+		"price0": "15000",
+		"price1": "30000"
+	}
+}
